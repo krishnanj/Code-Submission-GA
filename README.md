@@ -79,6 +79,6 @@ This exercise was completed with AI assistance, in line with the instructions pr
 
 ## References
 
-Krishnan J, Rangarajan AM, Loehr A, Hoelscher-Obermaier J. Adversarial Genomic Sequences Could Evade Biosecurity Screening. Accepted for a plenary talk at CyberBio 2026 (workshop collocated with IEEE Symposium on Security and Privacy 2026), with publication in Cyberbiosecurity Quarterly. https://openreview.net/forum?id=j0o93ydeGW
+Krishnan J, Rangarajan AM, Loehr A, Hoelscher-Obermaier J. Adversarial Genomic Sequences Could Evade Biosecurity Screening. Accepted for a plenary talk at CyberBio 2026 (workshop collocated with IEEE Symposium on Security and Privacy 2026), with publication in Cyberbiosecurity Quarterly. In press.
 
 Krishnan J, Rangarajan AM, Loehr A, Hoelscher-Obermaier J. Adversarial Genomic Sequences Could Evade Biosecurity Screening. ICLR 2026 Workshop on Machine Learning for Genomics Explorations (MLGenX), 2026. https://openreview.net/forum?id=j0o93ydeGW
