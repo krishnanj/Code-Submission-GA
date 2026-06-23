@@ -75,7 +75,7 @@ Top 5 BLASTn hits:
 
 ## AI use
 
-Claude (Sonnet 4.6) assisted in drafting and structuring the script. I directed which steps to implement, the choice of E-value thresholds for interpretation, the biological reading of the ORF output, and the flagging decision logic. These reflect my own judgment and prior work on biosecurity screening tool evaluation (Krishnan et al., 2026).
+This exercise was completed with AI assistance, in line with the instructions provided for this task. Claude (Sonnet 4.6) assisted in drafting and structuring the script. I directed which steps to implement, the choice of E-value thresholds for interpretation, the biological reading of the ORF output, and the flagging decision logic. These reflect my own judgment and prior work on biosecurity screening tool evaluation (Krishnan et al., 2026).
 
 ## References
 
