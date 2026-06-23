@@ -1,10 +1,10 @@
 """
-Gary Abel — DNA Sequence Screening Exercise, Part 2
+DNA Sequence Screening Exercise, Part 2
 Implements BLASTn (nucleotide), BLASTx (translated), and ORF prediction
 on the mystery sequence.
 
 Usage:
-    python gary_abel_screen.py
+    python sequence_screen.py
 
 Dependencies: biopython (pip install biopython)
 Note: NCBI requires a valid email for Entrez. Replace the placeholder below.
