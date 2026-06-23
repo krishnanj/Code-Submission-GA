@@ -76,3 +76,9 @@ Top 5 BLASTn hits:
 ## AI use
 
 Claude (Sonnet 4.6) assisted in drafting and structuring the script. I directed which steps to implement, the choice of E-value thresholds for interpretation, the biological reading of the ORF output, and the flagging decision logic. These reflect my own judgment and prior work on biosecurity screening tool evaluation (Krishnan et al., 2026).
+
+## References
+
+Krishnan J, Rangarajan AM, Loehr A, Hoelscher-Obermaier J. Adversarial Genomic Sequences Could Evade Biosecurity Screening. Accepted for a plenary talk at CyberBio 2026 (workshop collocated with IEEE Symposium on Security and Privacy 2026), with publication in Cyberbiosecurity Quarterly. https://openreview.net/forum?id=j0o93ydeGW
+
+Krishnan J, Rangarajan AM, Loehr A, Hoelscher-Obermaier J. Adversarial Genomic Sequences Could Evade Biosecurity Screening. ICLR 2026 Workshop on Machine Learning for Genomics Explorations (MLGenX), 2026. https://openreview.net/forum?id=j0o93ydeGW
